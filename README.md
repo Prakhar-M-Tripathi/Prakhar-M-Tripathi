@@ -2,8 +2,7 @@
 
 **Management Student | Finance Enthusiast | AI & Tech Tinkerer**
 
-I am a Bachelor of Management Studies (BMS) student at IIM Sirmaur with a strong passion for the intersection of finance, management, and technology. Coming from a Tier 3 city in Uttar Pradesh with roots in an agrarian household, I bring a grounded, analytical perspective to modern business challenges. I enjoy leveraging AI and "vibe coding" to rapidly prototype solutions that solve real-world problems.
-
+I am a Bachelor of Management Studies (BMS) student at IIM Sirmaur with a strong passion for the intersection of finance, management, and technology. 
 ---
 
 ### 🚀 About Me
